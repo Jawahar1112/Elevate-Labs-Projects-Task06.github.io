@@ -1,4 +1,7 @@
 Elevate Labs - Projects Task 06
+
+# Screenshot URL : https://docs.google.com/document/d/1Gwyeug5dS11aZWZ1XDooXF2jzYDDzZkJbdKzQmH0tJM/edit?usp=sharing
+
 This is my beginner project for Elevate Labs Task 06, where I created a simple static website using HTML and CSS, and deployed it with GitHub Pages.
 
 🛠️ Technologies Used
